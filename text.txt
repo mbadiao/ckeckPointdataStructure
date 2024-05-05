@@ -1,0 +1,25 @@
+Salut !
+
+J'ai passé du temps à explorer différents schémas interactifs de structures de données et d'algorithmes de tri, et j'ai découvert quelques choses intéressantes.
+
+### Structures de données explorées :
+1. Listes chaînées
+2. Arbres binaires
+3. Tables de hachage
+
+### Algorithmes de tri explorés :
+1. Tri par fusion (Merge Sort)
+2. Tri rapide (Quick Sort)
+3. Tri à bulles (Bubble Sort)
+
+### Nouvelles structures de données découvertes :
+Parmi les structures de données, j'ai découvert les "Hash Maps", mais je ne les ai pas encore rencontrées dans mes projets. Elles semblent être une manière efficace de stocker et d'accéder à des données en associant des clés à des valeurs.
+
+### Pourquoi je ne maîtrise pas encore les Hash Maps :
+Je n'ai pas encore eu l'occasion d'utiliser les Hash Maps dans mes projets, donc je ne les maîtrise pas encore pleinement. Cependant, je suis curieux d'en apprendre davantage sur leur fonctionnement et leurs cas d'utilisation potentiels.
+
+Je pense que les Hash Maps pourraient être utiles dans certains de mes projets futurs, donc je suis motivé pour approfondir mes connaissances à leur sujet.
+
+Merci pour ton soutien et tes conseils !
+
+À bientôt,
